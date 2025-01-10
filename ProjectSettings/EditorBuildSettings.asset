@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MapScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/EuropaScene.unity
+    guid: 0f745be4407eaf84293ea6457b39471b
+  - enabled: 1
+    path: Assets/Scenes/AfricaScene.unity
+    guid: 8d03c24063972a64a8f55e2a546ab8f8
+  - enabled: 1
+    path: Assets/Scenes/AmericaNordScene.unity
+    guid: 40d441db91be54f4b82ad11a205a7906
+  - enabled: 1
+    path: Assets/Scenes/AmericaSudScene.unity
+    guid: b0b98a64fbe018f4a9bf81f3e7444839
+  - enabled: 1
+    path: Assets/Scenes/AntracticaScene.unity
+    guid: 39346392d05159c4388708f521b318f3
+  - enabled: 1
+    path: Assets/Scenes/AsiaScene.unity
+    guid: cc515822a2a146845b9740765c5498ff
+  - enabled: 1
+    path: Assets/Scenes/AustraliaScene.unity
+    guid: e4a5e9fed0d536649b30772f7c34f06a
+  - enabled: 1
+    path: Assets/Scenes/Romania/RomaniaScene.unity
+    guid: 76c31c9719ed07147a514ba7520f7234
+  - enabled: 1
+    path: Assets/Scenes/Romania/RomaniaInfoScene.unity
+    guid: 1f1ec5cdff86e9040b4a07c0f279cabc
+  - enabled: 1
+    path: Assets/Scenes/Romania/RomaniaTestScene.unity
+    guid: 7b4c8bda9b1248343aa964d980f0ea41
+  - enabled: 1
+    path: Assets/Scenes/Portugalia/PortugaliaInfoScene.unity
+    guid: 72a8a5824c27b4ce098ac463808b4488
+  - enabled: 1
+    path: Assets/Scenes/Portugalia/PortugaliaScene.unity
+    guid: d058073851e004f72a014b5ae084b3d5
+  - enabled: 1
+    path: Assets/Scenes/Spania/SpaniaInfoScene.unity
+    guid: f38f783874b544754a744ae3742ec452
+  - enabled: 1
+    path: Assets/Scenes/Spania/SpaniaScene.unity
+    guid: d9d20469c1326446cb5d7ffefb95f843
+  - enabled: 1
+    path: Assets/Scenes/Spania/SpaniaTestScene.unity
+    guid: 5d85de5697b0d4a1583c8ac394f51261
+  - enabled: 1
+    path: Assets/Scenes/Grecia/GreciaInfoScene.unity
+    guid: 4b965217b8994438c98f2a5dd999de3b
+  - enabled: 1
+    path: Assets/Scenes/Grecia/GreciaScene.unity
+    guid: 08c31f2f606bb489aa3143232b4989bf
+  - enabled: 1
+    path: Assets/Scenes/Grecia/GreciaTestScene.unity
+    guid: 1f29c41f3e976477094046110c6199f3
+  - enabled: 1
+    path: Assets/Scenes/Portugalia/PortugaliaTestScene.unity
+    guid: 76331c1b25b86466381273e57a3e7d9a
+  - enabled: 1
+    path: Assets/Scenes/Elvetia/ElvetiaInfoScene.unity
+    guid: 51397f946e8a4766b176606a86a34961
+  - enabled: 1
+    path: Assets/Scenes/Elvetia/ElvetiaScene.unity
+    guid: dce5ee36814744aa93ea900b5c997dd8
+  - enabled: 1
+    path: Assets/Scenes/Elvetia/ElvetiaTestScene.unity
+    guid: b6d3b2e576294cbfa7349f3aa32336ac
+  - enabled: 1
+    path: Assets/Scenes/Franta/FrantaInfoScene.unity
+    guid: a4cab341cc590424dabcff326e946699
+  - enabled: 1
+    path: Assets/Scenes/Franta/FrantaScene.unity
+    guid: f1d108adf967a5c47ac4911c1ac256f6
+  - enabled: 1
+    path: Assets/Scenes/Franta/FrantaTestScene.unity
+    guid: aba54f21ab5ede24e97795aad34237f8
+  - enabled: 1
+    path: Assets/Scenes/Austria/AustriaInfoScene.unity
+    guid: 43137f96f39a1704a881b29bd4e33867
+  - enabled: 1
+    path: Assets/Scenes/Austria/AustriaScene.unity
+    guid: b308a9dce8b8f6749a9cb273bc42c40d
+  - enabled: 1
+    path: Assets/Scenes/Austria/AustriaTestScene.unity
+    guid: 197acf0526b0cb248bc837c504de777a
+  - enabled: 1
+    path: Assets/Scenes/Luxemburg/LuxemburgInfoScene.unity
+    guid: c86f8e82ce3d3e149a7d4b928cf6b4c1
+  - enabled: 1
+    path: Assets/Scenes/Luxemburg/LuxemburgScene.unity
+    guid: 183698e88cbe4be4eaa072df4dddea8a
+  - enabled: 1
+    path: Assets/Scenes/Luxemburg/LuxemburgTestScene.unity
+    guid: 6d05b5300b7063447a8d892027e12ad1
+  - enabled: 1
+    path: Assets/Scenes/Lituania/LituaniaTestScene.unity
+    guid: 3d1605db87aef3c4286b649e6aca24d5
+  - enabled: 1
+    path: Assets/Scenes/Lituania/LituaniaScene.unity
+    guid: a6e547bfbc922974983ce57b5d1943e6
+  - enabled: 1
+    path: Assets/Scenes/Lituania/LituaniaInfoScene.unity
+    guid: a562c8acfb583a64d967cc609c8d3c99
+  - enabled: 1
+    path: Assets/Scenes/Letonia/LetoniaTestScene.unity
+    guid: 180b5aa97bbd0da4fba99449ba560891
+  - enabled: 1
+    path: Assets/Scenes/Letonia/LetoniaScene.unity
+    guid: 08b3804d0fcd6e44d833f03b651cc663
+  - enabled: 1
+    path: Assets/Scenes/Letonia/LetoniaInfoScene.unity
+    guid: 333e63d82a391bb4496ea40c2be097ec
+  - enabled: 1
+    path: Assets/Scenes/Ucraina/UcrainaInfoScene.unity
+    guid: a7f61edc2ba371448b6ce46723f49bfa
+  - enabled: 1
+    path: Assets/Scenes/Ucraina/UcrainaScene.unity
+    guid: d185257fdefcfa2499038685ed26c418
+  - enabled: 1
+    path: Assets/Scenes/Ucraina/UcrainaTestScene.unity
+    guid: 527c1c7d3cefd6a4f840e39980208b4d
+  - enabled: 1
+    path: Assets/Scenes/Bulgaria/BulgariaInfoScene.unity
+    guid: 862962ccd5685424ab3b9dc8d558966b
+  - enabled: 1
+    path: Assets/Scenes/Bulgaria/BulgariaScene.unity
+    guid: 5c605721cc3a6f949bcae0f9267e1c83
+  - enabled: 1
+    path: Assets/Scenes/Bulgaria/BulgariaTestScene.unity
+    guid: 342c019fd45014541a505a59d722fc0b
+  - enabled: 1
+    path: Assets/Scenes/Italia/ItaliaInfoScene.unity
+    guid: a724a880fabc7ce49a977e33b3ca14b4
+  - enabled: 1
+    path: Assets/Scenes/Italia/ItaliaScene.unity
+    guid: fb5e93f1bca0aed4aa103c46d1005841
+  - enabled: 1
+    path: Assets/Scenes/Italia/ItaliaTestScene.unity
+    guid: 913028b4e007f9844ac4b2f79640d76e
+  m_configObjects: {}
